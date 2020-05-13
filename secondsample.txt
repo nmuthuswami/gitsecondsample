@@ -1,0 +1,2 @@
+Hi this is my second file.
+This should be treated as an enhancement file.
